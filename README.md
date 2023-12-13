@@ -32,7 +32,8 @@ def circulate():
 
 
 ## Output:
-![output](circulate%20output.png)
+<img width="575" alt="image" src="https://github.com/Vigneshv-23/Circulate-the-values-of-N-variables/assets/110780412/9e798464-8d2c-4087-a92a-eaf2232b4c40">
+
 
 ## Result:
 thus the numbers are circulated successfully
